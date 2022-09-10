@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/resume-for-peng/static/css/main.f1099eff.css",
-    "main.js": "/resume-for-peng/static/js/main.0ba6e656.js",
-    "index.html": "/resume-for-peng/index.html",
-    "main.f1099eff.css.map": "/resume-for-peng/static/css/main.f1099eff.css.map",
-    "main.0ba6e656.js.map": "/resume-for-peng/static/js/main.0ba6e656.js.map"
+    "main.css": "/resume_for_peng/static/css/main.f1099eff.css",
+    "main.js": "/resume_for_peng/static/js/main.0ba6e656.js",
+    "index.html": "/resume_for_peng/index.html",
+    "main.f1099eff.css.map": "/resume_for_peng/static/css/main.f1099eff.css.map",
+    "main.0ba6e656.js.map": "/resume_for_peng/static/js/main.0ba6e656.js.map"
   },
   "entrypoints": [
     "static/css/main.f1099eff.css",
